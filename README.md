@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diamond Rupakheti
-- 👀 I’m interested in progragming and developing
+- 👀 I’m interested in progragming
 - 🌱 I’m currently learning python with django
 - 💞️ I’m looking to collaborate on 
 
